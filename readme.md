@@ -25,3 +25,9 @@
 - id's cannot be reused but is helpful for navigation on the same page
 - psuedo classes helps modify the behaviour of the element based on the state for example links have visited, hover, active 
 - it also shows us how to select the child elements from the parent
+
+## floats (Chapter-6)
+- Teaches us how traditional website had complex layouts.
+- Explains about clear and overflow concept.
+- Clear helps you calculate the height of the float elements. 
+- overflow helps you ignore the extra space in the float element.
