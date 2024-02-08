@@ -9,25 +9,35 @@
 - How to use links effectively.
 - How to load images on to a web page.
 
-## hello-css (Chapter-3)
+## Hello-css (Chapter-3)
 - Basics of css.
 - How to apply styles for elements
 - How to import css file and make it reusable
 
-## css-box-model (Chapter-4)
+## Css-box-model (Chapter-4)
 - Tells us how the elements represent themselves on the screen
 - each element is a box with padding border and margin
 - any element on the web follows a box model.
 
-## css-selectors (Chapter-5)
+## Css-selectors (Chapter-5)
 - Teaches us about the other ways on targetting a specific element 
 - classes allow us to target a specific element and classes can be reused.
 - id's cannot be reused but is helpful for navigation on the same page
 - psuedo classes helps modify the behaviour of the element based on the state for example links have visited, hover, active 
 - it also shows us how to select the child elements from the parent
 
-## floats (Chapter-6)
+## Floats (Chapter-6)
 - Teaches us how traditional website had complex layouts.
 - Explains about clear and overflow concept.
 - Clear helps you calculate the height of the float elements. 
 - overflow helps you ignore the extra space in the float element.
+
+## Flexbox (Chapter-7)
+- Use display: flex; to create a flex container.
+- Use justify-content to define the horizontal alignment of items.
+- Use align-items to define the vertical alignment of items.
+- Use flex-direction if you need columns instead of rows.
+- Use the row-reverse or column-reverse values to flip item order.
+- Use order to customize the order of individual elements.
+- Use align-self to vertically align individual items.
+- Use flex to create flexible boxes that can stretch and shrink.
