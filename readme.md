@@ -51,3 +51,7 @@
 - The responsive design (the mockups for each layout)
 - CSS rules for implementing each of those layouts 
 - Media queries for conditionally applying those CSS rules
+
+## Responsive Images (Chapter-10)
+- Make images fit into mobile layouts while respecting their intrinsic size
+- Avoid making the user download unnecessarily large image files
