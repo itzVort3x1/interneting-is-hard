@@ -46,3 +46,8 @@
 - Learn about various positioning like absolute, relative fixed.
 - How absolute works and how relate helps it be in the normal page flow
 - fixed helps with building navigation bars and does not move even on scroll.
+
+## Responsive Design (Chapter-9)
+- The responsive design (the mockups for each layout)
+- CSS rules for implementing each of those layouts 
+- Media queries for conditionally applying those CSS rules
