@@ -41,3 +41,8 @@
 - Use order to customize the order of individual elements.
 - Use align-self to vertically align individual items.
 - Use flex to create flexible boxes that can stretch and shrink.
+
+## Advanced Positioning (Chapter-8)
+- Learn about various positioning like absolute, relative fixed.
+- How absolute works and how relate helps it be in the normal page flow
+- fixed helps with building navigation bars and does not move even on scroll.
